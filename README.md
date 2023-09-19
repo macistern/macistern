@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Matias Cisterna</h1>
+- 🔭 I’m currently working on **Voolkia as devops engineer**
+
 - 🌱 I’m currently learning **AWS, GCP, K82, GRAFANA**
 
 - 📫 How to reach me **maatiascisterna@gmail.com**
+
+- ⚡ Fun fact **I also play tennis!!🎾**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
